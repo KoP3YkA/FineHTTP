@@ -1,0 +1,19 @@
+{
+  "name": "finehttp",
+  "version": "0.0.1",
+  "description": "The library adds typing and object-oriented approach to http requests.",
+  "main": "./dist/index.js",
+  "repository": "https://github.com/KoP3YkA/FineHTTP",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": ["utils"],
+  "author": "kop3yka",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.3.6",
+    "typescript": "^5.7.3"
+  }
+}
