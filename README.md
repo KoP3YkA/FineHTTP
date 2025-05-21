@@ -52,3 +52,8 @@ if (response.ok) {
 **auth** - will add the Authorization header itself
 
 **retryCount** - number of attempts. Requests will be sent until a correct answer is received or this number of attempts ends. If not specified, there will be one attempt
+
+## License
+
+This project is licensed under the Apache License 2.0.  
+See the [LICENSE](./LICENSE) file for details.
